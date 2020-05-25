@@ -2,6 +2,7 @@
 
 So far you have used `console.log()` to produce strings of output in the console. Sometimes, developers want their output to be more attractive, especially if the output requires a multi-line format to be more readable.
 
+
 Just a quick example to show you what happens when you tell JavaScript to output a multi-line string. Place the following code in the code editor and click the "run >" button. You will see a red error message in the console.
 
 ```js
@@ -47,5 +48,5 @@ Our net monthly income is xxx.
 3129.5199999999995
 6377.689999999999
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODkwNTI3Ml19
+eyJoaXN0b3J5IjpbLTE3NDk0OTYwMTAsLTU2ODkwNTI3Ml19
 -->
