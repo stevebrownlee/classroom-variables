@@ -23,6 +23,15 @@ In your code, replace the double quote characters with backticks and run it agai
   
 ![](https://storage.googleapis.com/replit/images/1581101883981_b9f1bd1d23efc42b314101c2a8ea9d9a.gif)
 
+## Carpeting the House
+
+```js
+const totalArea = 2200
+const livingRoom = 450
+const kitchen = 
+```
+
+
 ## Exercise: Formatted Income Statement
 
 You are going to practice adding and subtracting variables again, but this time, the ouput will be more readable.
@@ -48,5 +57,6 @@ Our net monthly income is xxx.
 3129.5199999999995
 6377.689999999999
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk0OTYwMTAsLTU2ODkwNTI3Ml19
+eyJoaXN0b3J5IjpbLTEyMjA0NDA4MzUsLTE3NDk0OTYwMTAsLT
+U2ODkwNTI3Ml19
 -->
