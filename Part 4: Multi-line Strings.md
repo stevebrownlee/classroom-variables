@@ -32,6 +32,9 @@ const kitchen = 350
 const office = 235
 const powderRoom = 48
 const mainBedroom = 1197
+const mainBath = 175
+const guestBath = 72
+const guestBedroom = 
 ```
 
 
@@ -60,6 +63,6 @@ Our net monthly income is xxx.
 3129.5199999999995
 6377.689999999999
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Nzg4NDE5MywtMTc0OTQ5NjAxMCwtNT
+eyJoaXN0b3J5IjpbLTU0NzgzMTU4MiwtMTc0OTQ5NjAxMCwtNT
 Y4OTA1MjcyXX0=
 -->
