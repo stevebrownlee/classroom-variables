@@ -27,10 +27,14 @@ In your code, replace the double quote characters with backticks and run it agai
 
 ```js
 const totalArea = 2486
+
+// Downstairs rooms
 const livingRoom = 495
 const kitchen = 408
 const office = 235
 const powderRoom = 68
+
+// Upstairs rooms
 const mainBedroom = 480
 const mainBath = 275
 const guestBath = 105
@@ -63,6 +67,6 @@ Our net monthly income is xxx.
 3129.5199999999995
 6377.689999999999
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDIwMzYwNCwtMTc0OTQ5NjAxMCwtNT
-Y4OTA1MjcyXX0=
+eyJoaXN0b3J5IjpbOTc2NzQ4MzE3LC0xNzQ5NDk2MDEwLC01Nj
+g5MDUyNzJdfQ==
 -->
