@@ -26,23 +26,17 @@ In your code, replace the double quote characters with backticks and run it agai
 ## Carpeting the House
 
 ```js
-const totalArea = 2486
-
 // Downstairs rooms
-const livingRoom = 495
-const kitchen = 408
-const office = 235
-const powderRoom = 68
+const livingRoom =  595
+const kitchen =  408
+const office =  235
+const powderRoom =  68
 
 // Upstairs rooms
-const mainBedroom = 480
-const mainBath = 275
-const guestBath = 105
-const guestBedroom = 420
-
-const downstairsArea = livingRoom + kitchen + office + powderRoom
-
-  
+const mainBedroom =  475
+const mainBath =  270
+const guestBath =  100
+const guestBedroom =  415  
 
 console.log(`Living room: ${livingRoom}`)
 console.log(`Kitchen: ${kitchen}`)
@@ -80,6 +74,7 @@ Our net monthly income is xxx.
 3129.5199999999995
 6377.689999999999
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk5OTc1NDYsNDE1NTc0MDY0LDk3Nj
-c0ODMxNywtMTc0OTQ5NjAxMCwtNTY4OTA1MjcyXX0=
+eyJoaXN0b3J5IjpbMTA3MzAzNzQwNCwtMTE2OTk5NzU0Niw0MT
+U1NzQwNjQsOTc2NzQ4MzE3LC0xNzQ5NDk2MDEwLC01Njg5MDUy
+NzJdfQ==
 -->
