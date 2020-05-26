@@ -43,10 +43,7 @@ console.log(`Kitchen: ${kitchen}`)
 console.log(`Office: ${office}`)
 console.log(`Powder room: ${powderRoom}`)
 console.log(`Total area of first floor: ${livingRoom + kitchen + office + powderRoom}`)
-
 ```
-
-
 
 
 ## Exercise: Formatted Income Statement
@@ -74,7 +71,7 @@ Our net monthly income is xxx.
 3129.5199999999995
 6377.689999999999
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzAzNzQwNCwtMTE2OTk5NzU0Niw0MT
-U1NzQwNjQsOTc2NzQ4MzE3LC0xNzQ5NDk2MDEwLC01Njg5MDUy
-NzJdfQ==
+eyJoaXN0b3J5IjpbNTQxOTY1OTAsMTA3MzAzNzQwNCwtMTE2OT
+k5NzU0Niw0MTU1NzQwNjQsOTc2NzQ4MzE3LC0xNzQ5NDk2MDEw
+LC01Njg5MDUyNzJdfQ==
 -->
