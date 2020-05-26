@@ -38,6 +38,8 @@ const mainBath =  270
 const guestBath =  100
 const guestBedroom =  415  
 
+// TO avoid variable making overload, you can do the addition inside the interpolation
+
 console.log(`Living room: ${livingRoom}`)
 console.log(`Kitchen: ${kitchen}`)
 console.log(`Office: ${office}`)
@@ -71,7 +73,7 @@ Our net monthly income is xxx.
 3129.5199999999995
 6377.689999999999
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxOTY1OTAsMTA3MzAzNzQwNCwtMTE2OT
-k5NzU0Niw0MTU1NzQwNjQsOTc2NzQ4MzE3LC0xNzQ5NDk2MDEw
-LC01Njg5MDUyNzJdfQ==
+eyJoaXN0b3J5IjpbLTEzNjE1ODE3OTksNTQxOTY1OTAsMTA3Mz
+AzNzQwNCwtMTE2OTk5NzU0Niw0MTU1NzQwNjQsOTc2NzQ4MzE3
+LC0xNzQ5NDk2MDEwLC01Njg5MDUyNzJdfQ==
 -->
