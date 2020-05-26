@@ -40,7 +40,13 @@ const mainBath = 275
 const guestBath = 105
 const guestBedroom = 420
 
-const downstairsArea = livingRoom + 
+const downstairsArea = livingRoom + kitchen + office + powderRoom
+
+const downstairsTemplate = `
+Living room: ${livingRoom}
+Kitchen: ${kitchen}
+O
+`
 ```
 
 
@@ -71,6 +77,6 @@ Our net monthly income is xxx.
 3129.5199999999995
 6377.689999999999
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkzNDg1NzUsOTc2NzQ4MzE3LC0xNz
-Q5NDk2MDEwLC01Njg5MDUyNzJdfQ==
+eyJoaXN0b3J5IjpbMTUxNTk4Mjc4Miw5NzY3NDgzMTcsLTE3ND
+k0OTYwMTAsLTU2ODkwNTI3Ml19
 -->
