@@ -45,8 +45,13 @@ const downstairsArea = livingRoom + kitchen + office + powderRoom
 const downstairsTemplate = `
 Living room: ${livingRoom}
 Kitchen: ${kitchen}
-O
+Office: ${office}
+Powder room: ${powderRoom}
+----------------------------
+Total area of first floor: ${downstairsArea}
 `
+
+console.log(downstairsTemplate)
 ```
 
 
@@ -77,6 +82,6 @@ Our net monthly income is xxx.
 3129.5199999999995
 6377.689999999999
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTk4Mjc4Miw5NzY3NDgzMTcsLTE3ND
-k0OTYwMTAsLTU2ODkwNTI3Ml19
+eyJoaXN0b3J5IjpbNDE1NTc0MDY0LDk3Njc0ODMxNywtMTc0OT
+Q5NjAxMCwtNTY4OTA1MjcyXX0=
 -->
