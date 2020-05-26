@@ -39,7 +39,11 @@ const mainBedroom = 480
 const mainBath = 275
 const guestBath = 105
 const guestBedroom = 420
+
+const downstairsArea = livingRoom + 
 ```
+
+
 
 
 ## Exercise: Formatted Income Statement
@@ -67,6 +71,6 @@ Our net monthly income is xxx.
 3129.5199999999995
 6377.689999999999
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2NzQ4MzE3LC0xNzQ5NDk2MDEwLC01Nj
-g5MDUyNzJdfQ==
+eyJoaXN0b3J5IjpbLTE3MzkzNDg1NzUsOTc2NzQ4MzE3LC0xNz
+Q5NDk2MDEwLC01Njg5MDUyNzJdfQ==
 -->
